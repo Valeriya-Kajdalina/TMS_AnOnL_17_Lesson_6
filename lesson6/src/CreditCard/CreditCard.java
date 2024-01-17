@@ -10,6 +10,8 @@
 //Положите деньги на первые две карточки и снимите с третьей.
 //Выведите на экран текущее состояние всех трех карточек.
 
+
+package CreditCard;
 import java.util.Scanner;
 
 public class CreditCard {
